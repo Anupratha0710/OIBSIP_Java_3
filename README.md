@@ -2,7 +2,6 @@
 
 This is a GUI-based Online Reservation System developed using Java (Swing) and MySQL database. The system allows users to login, book tickets, and cancel reservations easily.
 
----
 
  🔹 Features
 
@@ -12,7 +11,6 @@ This is a GUI-based Online Reservation System developed using Java (Swing) and M
 - 💾 Data stored in MySQL Database
 - 🖥️ User-friendly GUI (Java Swing)
 
----
 
 🛠️ Technologies Used
 
@@ -21,6 +19,5 @@ This is a GUI-based Online Reservation System developed using Java (Swing) and M
 - JDBC (Java Database Connectivity)
 - Git & GitHub
 
----
 
 📂 Project Structure
